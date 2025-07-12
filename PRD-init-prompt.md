@@ -1,8 +1,8 @@
-**# \*\*Vorlage für ein Product Requirement Document (PRD)\*\***
+**# \*\*Vorlage für ein Project Requirement Document (PRD)\*\***
 
 
 
-**Dies ist die Standardvorlage für ein \*\*Product Requirement Document (PRD)\*\*.**
+**Dies ist die Standardvorlage für ein \*\*Project Requirement Document (PRD)\*\*.**
 
 
 
@@ -14,7 +14,7 @@
 
 **2.  Das gesamte Team – einschließlich des \*\*Produkt- und Technologie-Orchestrators\*\* und der KI-Agenten – ein \*\*gemeinsames, konsistentes Verständnis\*\* vom Produkt hat.**
 
-**3.  Alle nachfolgenden \*\*Product Requirement Prompts (PRPs)\*\* und die \*\*Product Requirements Roadmap (PRR)\*\* direkt und nachvollziehbar aus den hier definierten Anforderungen abgeleitet werden können.**
+**3.  Alle nachfolgenden \*\*Project Requirement Prompts (PRPs)\*\* und die \*\*Project Requirements Roadmap (PRR)\*\* direkt und nachvollziehbar aus den hier definierten Anforderungen abgeleitet werden können.**
 
 
 
