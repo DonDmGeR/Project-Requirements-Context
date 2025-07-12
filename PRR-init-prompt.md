@@ -1,8 +1,8 @@
-\# \*\*Vorlage für ein Product Requirements Roadmap (PRR)\*\*
+\# \*\*Vorlage für ein Project Requirements Roadmap (PRR)\*\*
 
 
 
-Dies ist eine dynamische Übersicht, die den Status und die Priorisierung der einzelnen Anforderungen widerspiegelt, die aus dem PRD abgeleitet wurden. Sie dient als Leitfaden für den Produkt- und Technologie-Orchestrator, um die PRPs zu generieren und an die spezialisierten KI-Sub-Agenten zu verteilen.
+Dies ist eine dynamische Übersicht, die den Status und die Priorisierung der einzelnen Anforderungen widerspiegelt, die aus dem PRD abgeleitet wurden. Sie dient als Leitfaden für den Project- und Technologie-Orchestrator, um die PRPs zu generieren und an die spezialisierten KI-Sub-Agenten zu verteilen.
 
 
 
@@ -56,9 +56,9 @@ Dieser Abschnitt listet die logischen, atomaren Einheiten oder Epics/Features au
 
 | Benutzerauthentifizierung | Implementierung der Login- und Registrierungsfunktion. | -                                 | Abgeschlossen | Auth-Agent                   | Basis für andere Funktionen.           |
 
-| Produktdarstellung     | Anzeige der Sandwich-Typen und Konfigurationsoptionen. | -                                 | In Arbeit     | UI-Agent                     | Benötigt Daten vom Schema-Agenten.     |
+| Projectdarstellung     | Anzeige der Sandwich-Typen und Konfigurationsoptionen. | -                                 | In Arbeit     | UI-Agent                     | Benötigt Daten vom Schema-Agenten.     |
 
-| Bestellabwicklung      | Prozess zur Erfassung und Verarbeitung von Bestellungen. | Benutzerauthentifizierung, Produktdarstellung | Ausstehend | Backend-Agent                | Kann erst starten, wenn Abhängigkeiten erfüllt sind. |
+| Bestellabwicklung      | Prozess zur Erfassung und Verarbeitung von Bestellungen. | Benutzerauthentifizierung, Projectdarstellung | Ausstehend | Backend-Agent                | Kann erst starten, wenn Abhängigkeiten erfüllt sind. |
 
 | ...                    | ...                                                 | ...                               | ...           | ...                           | ...                                     |
 
