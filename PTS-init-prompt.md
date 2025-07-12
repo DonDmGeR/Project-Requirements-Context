@@ -1,12 +1,12 @@
-\# \*\*Vorlage für eine Product Technical Specification (PTS)\*\*
+\# \*\*Vorlage für eine Project Technical Specification (PTS)\*\*
 
 
 
-Dies ist die Standardvorlage für eine \*\*Product Technical Specification (PTS)\*\*.
+Dies ist die Standardvorlage für eine \*\*Project Technical Specification (PTS)\*\*.
 
 
 
-Das Ziel einer PTS ist es, \*\*die technischen Grundlagen und Richtlinien für die Implementierung eines Produkts klar und umfassend zu definieren\*\*. Sie dient als \*\*zentrale technische Referenzquelle\*\* für den gesamten Entwicklungszyklus und ergänzt das Product Requirement Document (PRD), indem sie das "Wie" der Umsetzung detailliert beschreibt.
+Das Ziel einer PTS ist es, \*\*die technischen Grundlagen und Richtlinien für die Implementierung eines Projects klar und umfassend zu definieren\*\*. Sie dient als \*\*zentrale technische Referenzquelle\*\* für den gesamten Entwicklungszyklus und ergänzt das Project Requirement Document (PRD), indem sie das "Wie" der Umsetzung detailliert beschreibt.
 
 
 
@@ -14,13 +14,13 @@ Die Erstellung einer PTS stellt sicher, dass:
 
 
 
-1\.  Die gewählte \*\*Architektur und das technische Design\*\* den Produktanforderungen und langfristigen Zielen entsprechen.
+1\.  Die gewählte \*\*Architektur und das technische Design\*\* den Projectanforderungen und langfristigen Zielen entsprechen.
 
-2\.  Das gesamte Entwicklungsteam – einschließlich des \*\*Produkt- und Technologie-Orchestrators\*\* und der spezialisierten KI-Agenten – ein \*\*gemeinsames, konsistentes Verständnis\*\* der technischen Umsetzung hat.
+2\.  Das gesamte Entwicklungsteam – einschließlich des \*\*Project- und Technologie-Orchestrators\*\* und der spezialisierten KI-Agenten – ein \*\*gemeinsames, konsistentes Verständnis\*\* der technischen Umsetzung hat.
 
 3\.  KI-Agenten Code generieren, der \*\*architektonisch korrekt, stilistisch konsistent und den Best Practices\*\* des Projekts entspricht.
 
-4\.  Die \*\*Product Requirements Roadmap (PRR)\*\* mit den notwendigen technischen Kontexten für die Planung und das Tracking angereichert wird.
+4\.  Die \*\*Project Requirements Roadmap (PRR)\*\* mit den notwendigen technischen Kontexten für die Planung und das Tracking angereichert wird.
 
 
 
