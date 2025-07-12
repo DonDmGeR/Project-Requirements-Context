@@ -1,8 +1,8 @@
-\# \*\*Produkt- und Technologie-Orchestrator System\*\* 🚀
+\# \*\*Project- und Technologie-Orchestrator System\*\* 🚀
 
 
 
-Dieses Repository enthält die Kernvorlagen und Richtlinien für unser \*\*Produkt- und Technologie-Orchestrator System\*\*, ein KI-gestütztes Framework zur effizienten und konsistenten Entwicklung von Softwareprodukten. Es wurde entwickelt, um die Lücke zwischen Produktvision und technischer Implementierung zu schließen, indem es den gesamten Prozess durch strukturierte Dokumentation und präzise KI-Anweisungen optimiert.
+Dieses Repository enthält die Kernvorlagen und Richtlinien für unser \*\*Project- und Technologie-Orchestrator System\*\*, ein KI-gestütztes Framework zur effizienten und konsistenten Entwicklung von Softwareprojecten. Es wurde entwickelt, um die Lücke zwischen Projectvision und technischer Implementierung zu schließen, indem es den gesamten Prozess durch strukturierte Dokumentation und präzise KI-Anweisungen optimiert.
 
 
 
@@ -10,7 +10,7 @@ Unser System basiert auf vier zentralen Dokumenttypen, die miteinander synergeti
 
 
 
-1\.  \*\*Product Requirement Document (PRD):\*\* Definiert das \*WAS\* (Produktvision \& Anforderungen).
+1\.  \*\*Product Requirement Document (PRD):\*\* Definiert das \*WAS\* (Projectvision \& Anforderungen).
 
 2\.  \*\*Product Technical Specification (PTS):\*\* Definiert das \*WIE\* (Architektur \& technische Richtlinien).
 
@@ -28,7 +28,7 @@ Unser System basiert auf vier zentralen Dokumenttypen, die miteinander synergeti
 
 
 
-Das Produkt- und Technologie-Orchestrator System ermöglicht eine \*\*strukturierte, nachvollziehbare und KI-optimierte Produktentwicklung\*\*. Es gewährleistet, dass alle Beteiligten – menschliche Teams und KI-Agenten – ein klares, konsistentes Verständnis des zu entwickelnden Produkts und seiner technischen Umsetzung haben.
+Das Project- und Technologie-Orchestrator System ermöglicht eine \*\*strukturierte, nachvollziehbare und KI-optimierte Projectentwicklung\*\*. Es gewährleistet, dass alle Beteiligten – menschliche Teams und KI-Agenten – ein klares, konsistentes Verständnis des zu entwickelnden Projects und seiner technischen Umsetzung haben.
 
 
 
@@ -36,7 +36,7 @@ Das Produkt- und Technologie-Orchestrator System ermöglicht eine \*\*strukturie
 
 
 
-&nbsp; \* \*\*Top-Down-Ansatz:\*\* Beginnt mit der High-Level-Produktvision und destilliert diese schrittweise zu ausführbaren Aufgaben.
+&nbsp; \* \*\*Top-Down-Ansatz:\*\* Beginnt mit der High-Level-Projectvision und destilliert diese schrittweise zu ausführbaren Aufgaben.
 
 &nbsp; \* \*\*KI-gestützte Effizienz:\*\* Optimiert die Übergabe von Anforderungen an spezialisierte KI-Agenten, um Code-Generierung, Schema-Design, Test-Erstellung und mehr zu automatisieren.
 
@@ -58,7 +58,7 @@ Das Produkt- und Technologie-Orchestrator System ermöglicht eine \*\*strukturie
 
 
 
-&nbsp; \* \*\*Zweck:\*\* Das \*\*PRD\*\* ist die \*\*primäre Quelle\*\* für die Produktdefinition. Es legt fest, \*was\* gebaut werden soll, und beantwortet Fragen wie "Welches Problem lösen wir?", "Wer sind unsere Nutzer?" und "Welche Funktionen benötigt das Produkt?".
+&nbsp; \* \*\*Zweck:\*\* Das \*\*PRD\*\* ist die \*\*primäre Quelle\*\* für die Projectdefinition. Es legt fest, \*was\* gebaut werden soll, und beantwortet Fragen wie "Welches Problem lösen wir?", "Wer sind unsere Nutzer?" und "Welche Funktionen benötigt das Project?".
 
 &nbsp; \* \*\*Beziehung zum System:\*\* Es bildet die Grundlage für die \*\*PTS\*\* (technische Umsetzung), die \*\*PRR\*\* (Planung der Features) und die \*\*PRPs\*\* (konkrete Aufgaben). Die im PRD definierten \*\*User Stories und Akzeptanzkriterien\*\* sind die Endziele, die erreicht werden müssen.
 
@@ -80,7 +80,7 @@ Das Produkt- und Technologie-Orchestrator System ermöglicht eine \*\*strukturie
 
 &nbsp; \* \*\*Zweck:\*\* Die \*\*PRR\*\* ist ein \*\*dynamisches Planungswerkzeug\*\*, das den Fortschritt verfolgt. Sie listet die Epics/Features aus dem PRD auf, deren Priorität, Status und Abhängigkeiten.
 
-&nbsp; \* \*\*Beziehung zum System:\*\* Der \*\*Produkt- und Technologie-Orchestrator\*\* nutzt die PRR, um den Entwicklungsprozess zu steuern. Sie hilft bei der Entscheidung, welche \*\*PRPs\*\* als Nächstes generiert werden müssen, um die Produktziele effizient zu erreichen, und berücksichtigt dabei technische Abhängigkeiten aus der PTS.
+&nbsp; \* \*\*Beziehung zum System:\*\* Der \*\*Project- und Technologie-Orchestrator\*\* nutzt die PRR, um den Entwicklungsprozess zu steuern. Sie hilft bei der Entscheidung, welche \*\*PRPs\*\* als Nächstes generiert werden müssen, um die Projectziele effizient zu erreichen, und berücksichtigt dabei technische Abhängigkeiten aus der PTS.
 
 
 
@@ -90,7 +90,7 @@ Das Produkt- und Technologie-Orchestrator System ermöglicht eine \*\*strukturie
 
 &nbsp; \* \*\*Zweck:\*\* Ein \*\*PRP\*\* ist eine \*\*detaillierte, ausführbare Anweisung\*\* für einen einzelnen, spezialisierten KI-Sub-Agenten (z.B. `Coding-Agent`, `Schema-Agent`, `Test-Agent`). Es übersetzt eine spezifische Anforderung oder einen technischen Task in eine umsetzbare Form.
 
-&nbsp; \* \*\*Beziehung zum System:\*\* PRPs sind die \*\*"Arbeitsaufträge"\*\* des Systems. Sie aggregieren Informationen aus dem \*\*PRD\*\* (was zu tun ist) und der \*\*PTS\*\* (wie es technisch umzusetzen ist) und werden vom Produkt- und Technologie-Orchestrator generiert, basierend auf der \*\*PRR\*\*-Priorisierung.
+&nbsp; \* \*\*Beziehung zum System:\*\* PRPs sind die \*\*"Arbeitsaufträge"\*\* des Systems. Sie aggregieren Informationen aus dem \*\*PRD\*\* (was zu tun ist) und der \*\*PTS\*\* (wie es technisch umzusetzen ist) und werden vom Project- und Technologie-Orchestrator generiert, basierend auf der \*\*PRR\*\*-Priorisierung.
 
 
 
@@ -98,11 +98,11 @@ Das Produkt- und Technologie-Orchestrator System ermöglicht eine \*\*strukturie
 
 
 
-\## \*\*3. Anwendung des Systems (Für den Produkt- und Technologie-Orchestrator)\*\*
+\## \*\*3. Anwendung des Systems (Für den Project- und Technologie-Orchestrator)\*\*
 
 
 
-Als \*\*Produkt- und Technologie-Orchestrator\*\* bist du die zentrale Intelligenz, die dieses System steuert. Hier ist der typische Workflow:
+Als \*\*Project- und Technologie-Orchestrator\*\* bist du die zentrale Intelligenz, die dieses System steuert. Hier ist der typische Workflow:
 
 
 
@@ -110,7 +110,7 @@ Als \*\*Produkt- und Technologie-Orchestrator\*\* bist du die zentrale Intellige
 
 
 
-&nbsp;     \* Beginne mit einem \*\*PRD.md\*\*, das die grundlegenden Produktanforderungen definiert. Passe die Vorlage an euer spezifisches Produkt (z.B. die Android Habit Tracking App) an.
+&nbsp;     \* Beginne mit einem \*\*PRD.md\*\*, das die grundlegenden Projectanforderungen definiert. Passe die Vorlage an euer spezifisches Project (z.B. die Android Habit Tracking App) an.
 
 &nbsp;     \* Erstelle eine erste Version der \*\*PTS.md\*\*, die die grundlegende Architektur und die Coding Standards für das Projekt festlegt. Diese wird sich aus den "Technischen Forschungs"-Abschnitten des PRD speisen.
 
@@ -172,13 +172,13 @@ Als \*\*Produkt- und Technologie-Orchestrator\*\* bist du die zentrale Intellige
 
 /
 
-├── PRD.md            # Product Requirement Document (WAS)
+├── PRD.md            # Project Requirement Document (WAS)
 
-├── PTS.md            # Product Technical Specification (WIE)
+├── PTS.md            # Project Technical Specification (WIE)
 
-├── PRR.md            # Product Requirements Roadmap (STATUS)
+├── PRR.md            # Project Requirements Roadmap (STATUS)
 
-└── PRP.md            # Product Requirement Prompt (VORLAGE für AKTIONEN)
+└── PRP.md            # Project Requirement Prompt (VORLAGE für AKTIONEN)
 
 └── README.md         # Diese Datei
 
