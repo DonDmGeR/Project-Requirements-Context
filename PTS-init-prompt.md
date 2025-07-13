@@ -2,7 +2,7 @@
 
 Dies ist die Standardvorlage für eine **Project Technical Specification (PTS)**.
 
-Das Ziel einer PTS ist es, **die technischen Grundlagen und Richtlinien für die Implementierung eines Projekts klar und umfassend zu definieren**. Sie dient als **zentrale technische Referenzquelle** für den gesamten Entwicklungszyklus und ergänzt das Project Requirement Document (PRD), indem sie das *Wie* der Umsetzung detailliert beschreibt.
+Das Ziel einer PTS ist es, **die technischen Grundlagen und Richtlinien für die Implementierung eines Projekts klar und umfassend zu definieren**. Sie dient als **zentrale technische Referenzquelle** für den gesamten Entwicklungszyklus und ergänzt das Project Requirement Details (PRD), indem sie das *Wie* der Umsetzung detailliert beschreibt.
 
 Die Erstellung einer PTS stellt sicher, dass:
 
