@@ -4,10 +4,10 @@ Dieses Repository enthält die Kernvorlagen und Richtlinien für unser **Project
 
 Unser System basiert auf vier zentralen Dokumenttypen, die miteinander synergetisch wirken:
 
-1. **Product Requirement Document (PRD):** Definiert das *WAS* (Projektvision & Anforderungen).
-2. **Product Technical Specification (PTS):** Definiert das *WIE* (Architektur & technische Richtlinien).
-3. **Product Requirements Roadmap (PRR):** Trackt den *STATUS* (Priorisierung & Fortschritt).
-4. **Product Requirement Prompt (PRP):** Generiert *AKTIONEN* (detaillierte Anweisungen für KI-Agenten).
+1. **Project Requirement Document (PRD):** Definiert das *WAS* (Projektvision & Anforderungen).
+2. **Project Technical Specification (PTS):** Definiert das *WIE* (Architektur & technische Richtlinien).
+3. **Project Requirements Roadmap (PRR):** Trackt den *STATUS* (Priorisierung & Fortschritt).
+4. **Project Requirement Prompt (PRP):** Generiert *AKTIONEN* (detaillierte Anweisungen für KI-Agenten).
 
 ---
 
@@ -26,22 +26,22 @@ Das Project- und Technologie-Orchestrator System ermöglicht eine **strukturiert
 
 ## **2. Die Dokumente und ihre Synergien**
 
-### **2.1. Product Requirement Document (PRD.md)**
+### **2.1. Project Requirement Document (PRD.md)**
 
 * **Zweck:** Das **PRD** ist die **primäre Quelle** für die Projektdefinition. Es legt fest, *was* gebaut werden soll, und beantwortet Fragen wie „Welches Problem lösen wir?“, „Wer sind unsere Nutzer?“ und „Welche Funktionen benötigt das Projekt?“
 * **Beziehung zum System:** Es bildet die Grundlage für die **PTS** (technische Umsetzung), die **PRR** (Planung der Features) und die **PRPs** (konkrete Aufgaben). Die im PRD definierten **User Stories und Akzeptanzkriterien** sind die Endziele, die erreicht werden müssen.
 
-### **2.2. Product Technical Specification (PTS.md)**
+### **2.2. Project Technical Specification (PTS.md)**
 
 * **Zweck:** Die **PTS** beschreibt das *WIE* der technischen Umsetzung. Sie definiert die Systemarchitektur, die wichtigsten Designentscheidungen (ADRs), die Modulstruktur, den Datenfluss und kritische **Coding Standards & Style Guides**.
 * **Beziehung zum System:** Sie ergänzt das PRD durch technische Details und stellt sicher, dass der von KI-Agenten generierte Code **konsistent mit der Gesamtarchitektur** und den Qualitätsstandards ist. PRPs werden die Vorgaben aus der PTS integrieren, um präzise, technische Anweisungen zu formulieren.
 
-### **2.3. Product Requirements Roadmap (PRR.md)**
+### **2.3. Project Requirements Roadmap (PRR.md)**
 
 * **Zweck:** Die **PRR** ist ein **dynamisches Planungswerkzeug**, das den Fortschritt verfolgt. Sie listet die Epics/Features aus dem PRD auf, deren Priorität, Status und Abhängigkeiten.
 * **Beziehung zum System:** Der **Project- und Technologie-Orchestrator** nutzt die PRR, um den Entwicklungsprozess zu steuern. Sie hilft bei der Entscheidung, welche **PRPs** als Nächstes generiert werden müssen, um die Projektziele effizient zu erreichen, und berücksichtigt dabei technische Abhängigkeiten aus der PTS.
 
-### **2.4. Product Requirement Prompt (PRP.md)**
+### **2.4. Project Requirement Prompt (PRP.md)**
 
 * **Zweck:** Ein **PRP** ist eine **detaillierte, ausführbare Anweisung** für einen einzelnen, spezialisierten KI-Sub-Agenten (z. B. `Coding-Agent`, `Schema-Agent`, `Test-Agent`). Es übersetzt eine spezifische Anforderung oder einen technischen Task in eine umsetzbare Form.
 * **Beziehung zum System:** PRPs sind die **„Arbeitsaufträge“** des Systems. Sie aggregieren Informationen aus dem **PRD** (was zu tun ist) und der **PTS** (wie es technisch umzusetzen ist) und werden vom Project- und Technologie-Orchestrator generiert, basierend auf der **PRR**-Priorisierung.
