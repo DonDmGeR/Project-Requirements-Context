@@ -1,4 +1,4 @@
-# **Project- und Technologie-Orchestrator System** 🚀
+# **Project Requirements Context** 🚀
 
 Dieses Repository enthält die Kernvorlagen und Richtlinien für unser **Project- und Technologie-Orchestrator System**, ein KI-gestütztes Framework zur effizienten und konsistenten Entwicklung von Softwareprojekten. Es wurde entwickelt, um die Lücke zwischen Projektvision und technischer Implementierung zu schließen, indem es den gesamten Prozess durch strukturierte Dokumentation und präzise KI-Anweisungen optimiert.
 
