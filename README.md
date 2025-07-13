@@ -4,7 +4,7 @@ Dieses Repository enthält die Kernvorlagen und Richtlinien für unser **Project
 
 Unser System basiert auf vier zentralen Dokumenttypen, die miteinander synergetisch wirken:
 
-1. **Project Requirement Document (PRD):** Definiert das *WAS* (Projektvision & Anforderungen).
+1. **Project Requirement Details (PRD):** Definiert das *WAS* (Projektvision & Anforderungen).
 2. **Project Technical Specification (PTS):** Definiert das *WIE* (Architektur & technische Richtlinien).
 3. **Project Requirements Roadmap (PRR):** Trackt den *STATUS* (Priorisierung & Fortschritt).
 4. **Project Requirement Prompt (PRP):** Generiert *AKTIONEN* (detaillierte Anweisungen für KI-Agenten).
@@ -26,7 +26,7 @@ Das Project- und Technologie-Orchestrator System ermöglicht eine **strukturiert
 
 ## **2. Die Dokumente und ihre Synergien**
 
-### **2.1. Project Requirement Document (PRD.md)**
+### **2.1. Project Requirement Details (PRD.md)**
 
 * **Zweck:** Das **PRD** ist die **primäre Quelle** für die Projektdefinition. Es legt fest, *was* gebaut werden soll, und beantwortet Fragen wie „Welches Problem lösen wir?“, „Wer sind unsere Nutzer?“ und „Welche Funktionen benötigt das Projekt?“
 * **Beziehung zum System:** Es bildet die Grundlage für die **PTS** (technische Umsetzung), die **PRR** (Planung der Features) und die **PRPs** (konkrete Aufgaben). Die im PRD definierten **User Stories und Akzeptanzkriterien** sind die Endziele, die erreicht werden müssen.
@@ -87,7 +87,7 @@ Als **Project- und Technologie-Orchestrator** bist du die zentrale Intelligenz, 
 
 ```plaintext
 /
-├── PRD.md            # Project Requirement Document (WAS)
+├── PRD.md            # Project Requirement Details (WAS)
 ├── PTS.md            # Project Technical Specification (WIE)
 ├── PRR.md            # Project Requirements Roadmap (STATUS)
 ├── PRP.md            # Project Requirement Prompt (VORLAGE für AKTIONEN)
