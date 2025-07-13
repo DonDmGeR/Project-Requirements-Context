@@ -1,8 +1,8 @@
-## 📌 **Vorlage für ein Project Requirement Document (PRD)**
+## 📌 **Vorlage für ein Project Requirement Details (PRD)**
 
 ---
 
-**Dies ist die Standardvorlage für ein Project Requirement Document (PRD).**
+**Dies ist die Standardvorlage für ein Project Requirement Details (PRD).**
 
 Ein PRD hat das Ziel, **klar und umfassend zu definieren, was ein Produkt leisten soll**. Es dient als **primäre Referenzquelle** für den gesamten Entwicklungszyklus. Die Erstellung stellt sicher, dass:
 
